@@ -1,6 +1,9 @@
 {
 "name": "Chess Pool",
-"description": "A community-focused pool that donates 5% of block rewards to funding youth chess educational programs.",
+"description": "A community-focused pool that donates 5% of block rewards to fu$
 "ticker": "ROOKS",
-"homepage": "https://chesspool.org"
+"homepage": "https://chesspool.org",
+"extended": "https://git.io/JmwXP"
 }
+
+
