@@ -1,15 +1,3 @@
 {
-   "location": "Austin, Texas, USA",
-   "social": {
-            "twitter_handle": "ChessPoolADA",
-            "telegram_handle": "",
-            "facebook_handle": "",
-            "youtube_handle": "",
-            "twitch_handle": "",
-            "discord_handle": "",
-            "github_handle": ""
-        },
-   "my-pool-ids": {
-        "0": "0bf5ce0f058d10433c08ec03feb4f839deccb0e8e5c9d8c342cbcb261f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
-    },
+   "location": "Austin, Texas, USA"
 }
