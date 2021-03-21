@@ -1,14 +1,16 @@
 {
-   "url_png_icon_64x64": "https://git.io/JmdR4",
-   "url_png_logo": "https://git.io/JmdEG",
-   "location": "Austin, Texas, USA",
-   "social": {
-      "twitter_handle": "ChessPoolADA",
-      "telegram_handle": "ChessPoolADA",
-      "facebook_handle": "",
-      "youtube_handle": "",
-      "twitch_handle": "",
-      "discord_handle": "",
-      "github_handle": ""
+   "info": {
+      "url_png_icon_64x64": "https://git.io/JmdR4",
+      "url_png_logo": "https://git.io/JmdEG",
+      "location": "Austin, Texas, USA",
+      "social": {
+         "twitter_handle": "ChessPoolADA",
+         "telegram_handle": "ChessPoolADA",
+         "facebook_handle": "",
+         "youtube_handle": "",
+         "twitch_handle": "",
+         "discord_handle": "",
+         "github_handle": ""
+      }
    }
 }
